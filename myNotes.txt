@@ -1,0 +1,6 @@
+Asynchronous mongoDB validator- DIDN'T WORKED
+
+some topics left to implement if required:
+getter and setter in mongoDB
+Rentals Project(in 9.Mongoose- modeling relationship b/w connected Data)
+Transactions(2 phase commit) in mongo
